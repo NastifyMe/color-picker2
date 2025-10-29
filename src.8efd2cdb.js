@@ -11,4 +11,4 @@ module.exports=function(t){return fetch(t).then(function(t){return t.text()})};
 },{}],0:[function(require,module,exports) {
 var b=require("TUK3");b.register("html",require("A3BY"));b.load([["cards.4400468c.html","fpKt"]]).then(function(){require("Focm");});
 },{}]},{},[0], null)
-//# sourceMappingURL=color-picker2/src.8efd2cdb.js.map
+//# sourceMappingURL=/color-picker2/src.8efd2cdb.js.map
